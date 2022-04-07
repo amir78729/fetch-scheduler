@@ -10,7 +10,7 @@ successful_requests = 0
 total_requests = 0
 today = jdatetime.date.today()
 report_string = ''
-URL = 'https://jsonplaceholder.typicode.com/todos/1'
+URL = '<ENTER-YOUR-URL-HERE>'
 
 def get_date_label():
 	today = jdatetime.date.today()
