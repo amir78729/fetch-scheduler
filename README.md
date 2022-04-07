@@ -4,8 +4,6 @@
 # Fetch Scheduler
   
 A simple Python program that calls an API every five minutes in order to check if it's down
-
-Amirhossein Alibakhshi
  
 </div>
 
