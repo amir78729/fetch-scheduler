@@ -26,6 +26,22 @@ We used this library to be able to get date-time information in the Jalali calen
 pip install jdatetime
 ```
 
+### `numpy`
+
+We used numpy to ease array computation in python.
+
+```bash
+pip install numpy
+```
+
+### `matplotlib`
+
+We used matplotlib to plot our data.
+
+```bash
+pip install matplotlib
+```
+
 ## Main Tasks
 
 ### Api Call
